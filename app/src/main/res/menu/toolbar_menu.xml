@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/action_commons"
+        android:title="One"
+        android:icon="@drawable/commons"
+        android:orderInCategory="102"
+        app:showAsAction="always" />
+
+
+    <item android:id="@+id/action_techbuilding"
+        android:title="One"
+        android:icon="@drawable/techbuilding"
+        android:orderInCategory="103"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/action_assistant"
+        android:title="One"
+        android:icon="@drawable/assistant"
+        android:orderInCategory="104"
+        app:showAsAction="always" />
+
+
+
+
+
+</menu>
